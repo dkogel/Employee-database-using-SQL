@@ -1,5 +1,11 @@
 # sql-challenge
 
+In this challenge, I created an ERD (entity relationship diagram) using 
+https://www.quickdatabasediagrams.com/. Once the ERD was complete, I used it to
+generate the queries to create tables in a PostgreSQL database to load a series
+of CSV files with sample emloyee data. Finally, once that data had been loaded,
+I queried the database for various sets of information about the employees in the sample data.
+
 #### Follow these stops to recreate this database and run the queries in `Employees_DB_queries.sql` 
 
 1. Clone the repository to your machine.
