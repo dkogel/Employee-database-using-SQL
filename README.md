@@ -1,6 +1,6 @@
 # sql-challenge
 
-###Follow these stops to recreate this database and run the queries in `Employees_DB_queries.sql` 
+#### Follow these stops to recreate this database and run the queries in `Employees_DB_queries.sql` 
 
 1. Open PGadmin and create a database named `employees_DB`. 
 *Note: This project was created using PGadmin version 5.7.*
