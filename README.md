@@ -1,4 +1,4 @@
-# sql-challenge
+# Employe database using SQL
 
 In this challenge, I created an ERD (entity relationship diagram) using 
 https://www.quickdatabasediagrams.com/. Once the ERD was complete, I used it to
