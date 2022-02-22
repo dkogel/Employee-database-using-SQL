@@ -1,6 +1,6 @@
 # Employe database using SQL
 
-In this challenge, I created an ERD (entity relationship diagram) using 
+In this project, I created an ERD (entity relationship diagram) using 
 https://www.quickdatabasediagrams.com/. Once the ERD was complete, I used it to
 generate the queries to create tables in a PostgreSQL database to load a series
 of CSV files with sample emloyee data. Finally, once that data had been loaded,
